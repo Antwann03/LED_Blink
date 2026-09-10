@@ -99,4 +99,5 @@ rgb_out(2) <= RGB_BLUE;
 # Known Issues and Limitations
 One issue I ran into was expecting the hardware to update automatically once the bitstream finished generating. However, the bitstream must be first prrogrammed onto the device before any changes are reflected onto the hardware, in this case the RGB LED on the Zybo Z7-10.
 # References
-
+Learned how to Archive a vivado project
+https://docs.amd.com/r/en-US/ug895-vivado-system-level-design-entry/Archiving-Projects
